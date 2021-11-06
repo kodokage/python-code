@@ -1,0 +1,44 @@
+Depot:
+Akie AmaAkie Ama
+Address:
+Bonny Island
+Decription
+Hp Omen Laptop
+
+Depot:
+Borikiri, Bonny IslandBorikiri, Bonny Island
+Address:
+Akie ama 
+Decription
+Hp  Omen laptop
+
+Depot:
+Borikiri, Bonny IslandBorikiri, Bonny Island
+Address:
+Akie Ama
+Decription
+Hp Omen
+
+Depot:
+AbujaAbuja
+Address:
+Haruna Crescent 
+Decription
+Hp Omen Laptop
+
+Depot:
+LagosLagos
+Address:
+Ikeja
+Decription
+Hp Omen
+
+Depot:
+Japan
+Japan
+
+Address:
+Kyoto
+Decription
+Hp Omen
+
